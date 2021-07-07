@@ -10,10 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/pandapog123/assert-core.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pandapog123/assert-core/issues"
   },
-  "homepage": "https://github.com/pandapog123/assert-core#readme"
+  "homepage": "https://github.com/pandapog123/assert-core#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
 }
